@@ -16,21 +16,45 @@ img {
   padding:8px;
 }
 
-h1{color:#000000;font-size: 50px;text-shadow: 6px 6px #8a0000;}
+h1{
+  color:#000000;
+  ont-size: 50px;
+  text-shadow: 6px 6px #8a0000;
+}
 
-.text{color: #e60026;font-family:fantasy ;font-size: 30px;}
+.text{
+  color: #e60026;
+  font-family:fantasy ;
+  font-size: 30px;
+}
 
-body{background-color: black;text-align: center;}
+body{
+  background-color: black;
+  text-align: center;
+}
 
-a {font-size:35px;text-align: center;}
+a {
+  font-size:35px;
+  text-align: center;
+}
 
-h2 {color:#8f8f8f;font-size:40px;}
+h2 {
+  color:#8f8f8f;
+  font-size:40px;
+}
 
-img:hover{width:350px;border:inset #940000 15px;}
+img:hover{
+  width:350px;
+  border:inset #940000 15px;
+}
 
-.img{width:400px;}
+.img{
+  width:400px;
+}
 
-.img:hover{width:450px;}
+.img:hover{
+  width:450px;
+}
 
 .container {
   display: flexbox;
